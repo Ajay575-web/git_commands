@@ -25,3 +25,5 @@ git commit -m "my first commit"
 git push -u
 
 git clone"//repository url//"
+
+git branch >> newbranch
